@@ -1,5 +1,4 @@
 import WeatherCard from './component/weather';
-import logo from './logo.svg';
 
 
 function App() {
